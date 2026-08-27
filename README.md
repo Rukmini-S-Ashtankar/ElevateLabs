@@ -53,10 +53,13 @@ Boxplots were used to visualize outliers in numerical features:
 
 * Age
   <img width="551" height="390" alt="Screenshot 2026-08-27 211530" src="https://github.com/user-attachments/assets/64a709e9-2858-4282-a40c-e4c7dd4be9df" />
+  
 * SibSp
 <img width="543" height="390" alt="Screenshot 2026-08-27 211540" src="https://github.com/user-attachments/assets/64c7dabc-9a09-415d-bac9-15975b300c71" />
+
 * Parch
   <img width="530" height="383" alt="Screenshot 2026-08-27 211550" src="https://github.com/user-attachments/assets/2148f08a-1216-4074-981f-f48e1295b59f" />
+  
 * Fare
   <img width="548" height="392" alt="Screenshot 2026-08-27 211611" src="https://github.com/user-attachments/assets/8ae56377-b745-4cac-b312-3212b1e37899" />
 
